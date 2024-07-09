@@ -24,14 +24,14 @@ author:
   avatar           : "profile.png"
   name             : "Yi Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Second-year master student at Institute for Interdisciplinary Information Sciences, Tsinghua University"
+  bio              : "Second-year master student at IIIS, Tsinghua University"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "liu-yi22@mails.tsinghua.edu.cn" 
 
   # Academic websites
-  SSRN            :  "https://www.ssrn.com/author=5436189" # URL - Update with the correct link to your profile
+  SSRN             :  "https://www.ssrn.com/author=5436189" # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=3REL8i8AAAAJ"
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
