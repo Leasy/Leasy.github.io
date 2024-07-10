@@ -212,6 +212,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  miscellaneous:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -269,6 +273,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _Miscellaneous
+  - scope:
+      path: ""
+      type: Miscellaneous
+    values:
+      layout: miscellaneous
+      author_profile: true
+      share: true
+      
 
 
 # Sass/SCSS
