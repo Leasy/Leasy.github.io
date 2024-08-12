@@ -21,7 +21,7 @@ Poster appears at AEA 2024, [paper](/files/market_segmentation.pdf)
 
 **Generic Bayesian Implementability and Flows**<br>
 Zhonghong Kuang, **Yi Liu**, Fan Wu<br>
-2021, [paper](/files/bayesian_implementation.pdf)]
+2021, [paper](/files/bayesian_implementation.pdf)
 
 Work in progress
 ======
