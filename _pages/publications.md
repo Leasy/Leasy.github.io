@@ -16,8 +16,8 @@ Available at [SSRN 4504712](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id
 
 **Stable Market Segmentation against Price Discrimination**<br>
 Zhonghong Kuang, Sanxi Li, **Yi Liu**, Yang Yu<br>
-Available at [SSRN 4206459](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734806>) 2022<br>
-Poster appears at AEA 2024, [paper](/files/market_segmentation.pdf)
+Poster appears at AEA 2024<br>
+Available at [SSRN 4206459](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4734806>), 2023, [paper](/files/market_segmentation.pdf)
 
 **Generic Bayesian Implementability and Flows**<br>
 Zhonghong Kuang, **Yi Liu**, Fan Wu<br>
