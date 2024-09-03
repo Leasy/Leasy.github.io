@@ -16,4 +16,4 @@ Recent Publication:
 ======
 **Implementing Randomized Allocation Rules with Outcome-Contingent Transfers**<br>
 **Yi Liu**, Fan Wu<br>
-September 2024, **Journal of Economic Theory**, [paper](<https://authors.elsevier.com/c/1jTo2_W5stBhK>)
+September 2024, [**Journal of Economic Theory**](<https://authors.elsevier.com/c/1jTo2_W5stBhK>)
