@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yi Liu (刘易)"
+title                    : "Yi Liu"
 title_separator          : "-"
 name                     : &name "Yi Liu"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ repository               : "Leasy/Leasy.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Yi Liu"
+  name             : "Yi Liu (刘易)"
   pronouns         : # example: "she/her"  
   bio              : "Third-year master student at IIIS, Tsinghua University"
   location         : "Beijing, China"
