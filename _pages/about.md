@@ -15,5 +15,5 @@ Here is my personal [CV](/files/Yi_Liu_s_CV.pdf).
 Recent Publication:
 ======
 **Implementing Randomized Allocation Rules with Outcome-Contingent Transfers**<br>
-**Yi Liu**, Fan Wu<br>
+**Yi Liu**, [Fan Wu](<https://www.fanwu.info/>)<br>
 September 2024, [**Journal of Economic Theory**](<https://doi.org/10.1016/j.jet.2024.105878>)
