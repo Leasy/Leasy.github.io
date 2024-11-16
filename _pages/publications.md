@@ -11,7 +11,7 @@ September 2024, **Journal of Economic Theory**, [paper](<https://doi.org/10.1016
 
 Working papers
 ======
-**Mediated Information Design with Money Burning for Commitment Power**<br>
+**Money Burning Improves Mediated Communication**<br>
 **Yi Liu**, Yang Yu<br>
 Available at [SSRN 4504712](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4504712>) 2023, [paper](/files/CommunicationDevice_New.pdf)
 
