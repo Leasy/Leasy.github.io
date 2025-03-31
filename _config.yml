@@ -23,7 +23,7 @@ repository               : "Leasy/Leasy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "liu_busi.jpg"
+  avatar           : "busi.png"
   name             : "Yi Liu (刘易)"
   pronouns         : # example: "she/her"  
   bio              : "Third-year master student at IIIS, Tsinghua University"
