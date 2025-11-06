@@ -22,7 +22,7 @@ Available at [arXiv](<http://arxiv.org/abs/2507.11018>), 2025, [paper](/files/kn
 
 **Money Burning Improves Mediated Communication**<br>
 **Yi Liu**, Yang Yu<br>
-Extended Abstract at **WINE2025**
+Extended Abstract at **WINE2025**<br>
 Available at [SSRN 4504712](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4504712>), 2023, [paper](/files/CommunicationDevice_New.pdf)
 
 **Stable Market Segmentation against Price Discrimination**<br>
