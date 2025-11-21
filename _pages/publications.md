@@ -6,8 +6,7 @@ author_profile: true
 ---
 **Welfare and Distributional Effects of Joint Intervention in Networks**<br>
 Ryan Kor, **Yi Liu**, [Yves Zenou](<https://sites.google.com/site/yvesbzenou/home>), [Junjie Zhou](<https://zhoujunjie.weebly.com/>)<br>
-Forthcoming in **Journal of Economic Theory**<br>
-Available at [SSRN 5327386](<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5327386>), 2025, [paper](/files/Joint_intervention_new__2025.pdf)
+December 2025, **Journal of Economic Theory**, [paper](<https://doi.org/10.1016/j.jet.2025.106109>)
 
 **Implementing Randomized Allocation Rules with Outcome-Contingent Transfers**<br>
 **Yi Liu**, [Fan Wu](<https://www.fanwu.info/>)<br>
