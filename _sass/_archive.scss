@@ -243,3 +243,131 @@
     }
   }
 }
+
+.publication-list {
+  margin-top: 0.75rem;
+}
+
+.publication-section {
+  margin-bottom: 3rem;
+}
+
+.publication-section__title {
+  margin-bottom: 1.25rem;
+  font-size: $type-size-3;
+  line-height: 1.2;
+}
+
+.publication-entry {
+  margin-left: 1.1rem;
+  padding-left: 0.9rem;
+  border-left: 1px solid mix(#fff, $border-color, 35%);
+  margin-bottom: 2.5rem;
+}
+
+.publication-title {
+  margin: 0 0 0.35rem;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-5;
+  line-height: 1.25;
+}
+
+.publication-title a,
+.publication-title a:visited {
+  color: #111;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.publication-title a:hover {
+  color: #111;
+  text-decoration: none;
+}
+
+.publication-coauthors,
+.publication-status {
+  margin: 0 0 0.45rem;
+  font-size: $type-size-6;
+}
+
+.publication-coauthors {
+  color: mix(#fff, $gray, 20%);
+}
+
+.publication-coauthors a,
+.publication-coauthors a:visited {
+  color: mix(#fff, $gray, 20%);
+  text-decoration: none;
+}
+
+.publication-coauthors a:hover {
+  color: $gray;
+  text-decoration: none;
+}
+
+.publication-status {
+  color: $text-color;
+}
+
+.publication-status span {
+  font-weight: 600;
+}
+
+.publication-inline-link,
+.publication-inline-link:visited {
+  color: mix(#fff, $gray, 20%);
+  text-decoration: none;
+}
+
+.publication-inline-link:hover {
+  color: $gray;
+  text-decoration: none;
+}
+
+.publication-abstract {
+  margin-top: 0.7rem;
+}
+
+.publication-abstract summary {
+  display: inline-block;
+  padding: 0.35rem 0.8rem;
+  color: $gray;
+  font-size: $type-size-7;
+  cursor: pointer;
+  list-style: none;
+  border: 1px solid $border-color;
+  border-radius: 999px;
+  transition: $global-transition;
+}
+
+.publication-abstract summary::-webkit-details-marker {
+  display: none;
+}
+
+.publication-abstract summary:hover,
+.publication-abstract[open] summary {
+  color: #111;
+  border-color: mix(#000, $border-color, 10%);
+  background: mix(#fff, $lighter-gray, 50%);
+}
+
+.publication-abstract__content {
+  margin-top: 0.8rem;
+  padding-left: 1rem;
+  border-left: 2px solid $border-color;
+}
+
+.publication-abstract__content p {
+  margin: 0;
+  color: mix(#000, $gray, 20%);
+  font-size: $type-size-6;
+}
+
+.teaching-link,
+.teaching-link:visited,
+.teaching-link:hover {
+  color: inherit;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+}
