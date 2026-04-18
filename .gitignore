@@ -1,12 +1,16 @@
+# Ignore Bundler local config and installed gems for local development
+.bundle/
+
 # Ignore the contents of the _site directory
 _site/
 
 # Ignore the directory for local files during development
 local/
+_config_local.yml
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
-# Ingore files created by npm
+# Ignore files created by npm
 node_modules
 package-lock.json

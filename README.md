@@ -38,6 +38,26 @@ When you are initially working your website, it is very useful to be able to pre
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
+### Windows + WSL Notes
+
+If you are running this project from Windows through WSL and the repository lives under `/mnt/<drive>/...`, Jekyll and Bundler can hit permission issues when writing `_site` or local gem directories.
+
+This repository uses two local-only settings to avoid those issues:
+
+- `.bundle/config` points Bundler to a gem install path inside your WSL home directory.
+- `_config_local.yml` overrides the Jekyll output directory so the generated site is written to Linux temp storage instead of the Windows-mounted repository.
+
+These files are meant for local development and are ignored by Git.
+
+Typical local preview command on Windows + WSL:
+
+```bash
+bundle install
+bundle exec jekyll serve --config _config.yml,_config_local.yml -l -H localhost
+```
+
+Then open `http://localhost:4000/` in your browser.
+
 # Maintenance
 
 Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
