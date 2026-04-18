@@ -371,3 +371,12 @@
   border-bottom: 0 !important;
   box-shadow: none !important;
 }
+
+.home-page a,
+.home-page a:visited,
+.home-page a:hover {
+  color: $link-color;
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+}

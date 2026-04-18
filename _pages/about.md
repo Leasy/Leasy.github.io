@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Department of Economics](https://economics.yale.edu/), Yale University. I have a broad interest in the theoretical problems of economics and algorithmic economics, especially information design and mechanism design. Previously, I was an undergraduate student and a master student at [Yao Class](https://iiis.tsinghua.edu.cn/), Tsinghua University. 
+<div class="home-page">
+  <p>I am a Ph.D. student at the <a href="https://economics.yale.edu/">Department of Economics</a>, Yale University. I have a broad interest in the theoretical problems of economics and algorithmic economics, especially information design and mechanism design. Previously, I was an undergraduate student and a master student at <a href="https://iiis.tsinghua.edu.cn/">Yao Class</a>, Tsinghua University.</p>
 
-Here is my personal [CV](/files/Yi_Liu_s_CV.pdf).
+  <p><a href="/files/Yi_Liu_s_CV.pdf">Here</a> is my personal CV.</p>
+</div>
