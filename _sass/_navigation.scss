@@ -210,12 +210,7 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
         text-wrap: wrap;
-
-        a {
-          margin-left: 0;
-        }
       }
 
       &:last-child {
@@ -223,6 +218,11 @@
           margin-right: 0;
         }
       }
+    }
+
+    .masthead__site-title {
+      margin-left: 0;
+      color: #000;
     }
 
     a {

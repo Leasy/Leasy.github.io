@@ -15,15 +15,20 @@ layout: compress
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
+    {% capture footer_custom %}{% include footer/custom.html %}{% endcapture %}
+    {% capture footer_main %}{% include footer.html %}{% endcapture %}
+    {% assign footer_markup = footer_custom | append: footer_main | strip %}
 
     {{ content }}
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
+    {% if footer_markup != "" %}
+      <div class="page__footer">
+        <footer>
+          {{ footer_custom }}
+          {{ footer_main }}
+        </footer>
+      </div>
+    {% endif %}
 
     {% include scripts.html %}
 

@@ -152,7 +152,8 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}
+      <li class="author__desktop author__meta">Last updated: {{ site.time | date: "%B %Y" }}</li>
     </ul>
   </div>
 </div>

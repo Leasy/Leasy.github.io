@@ -52,7 +52,14 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 3em;
-    font-weight: 700;
+    padding-right: 4.5em;
   }
+}
+
+.masthead__site-title {
+  display: block;
+  margin: 0;
+  padding: 0.5rem 0;
+  color: #000;
+  font-weight: 700;
 }
