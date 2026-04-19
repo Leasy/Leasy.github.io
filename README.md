@@ -33,8 +33,8 @@ When you are initially working your website, it is very useful to be able to pre
     brew install node
     gem install bundler
     ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete `Gemfile.lock` and try again.
+1. Run `bundle exec jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000`; the local server will automatically rebuild and refresh the pages on change. Running `jekyll serve` directly can use your system gems instead of the versions locked in `Gemfile.lock`, which may cause errors such as the `base64` default gem version conflict on newer Linux/WSL setups.
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
