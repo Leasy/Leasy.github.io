@@ -47,7 +47,7 @@ author_profile: true
     </div>
 
     <div class="publication-entry">
-      <h3 class="publication-title"><a href="/files/CommunicationDevice_New.pdf">Money Burning Improves Mediated Communication</a></h3>
+      <h3 class="publication-title"><a href="/files/CommunicationDevice.pdf">Money Burning Improves Mediated Communication</a></h3>
       <p class="publication-coauthors">joint with Yang Yu</p>
       <p class="publication-status">Extended Abstract at <span>WINE 2025</span>; available at <a class="publication-inline-link" href="https://arxiv.org/abs/2411.19431">arXiv</a>, 2023</p>
       <details class="publication-abstract">
