@@ -35,6 +35,17 @@ author_profile: true
     <h2 class="publication-section__title">Working Papers</h2>
 
     <div class="publication-entry">
+      <h3 class="publication-title"><a href="/files/signal_processing.pdf">On the Complexity of Bayesian Signal Processing</a></h3>
+      <p class="publication-status">2026</p>
+      <details class="publication-abstract">
+        <summary>Show Abstract</summary>
+        <div class="publication-abstract__content">
+          <p>We develop a computational framework for Bayesian decision-making. We show that as long as no action is optimal in every state, Bayes-optimal choice is intractable. This hardness need not arise from large action, state, or signal spaces, nor from a complicated represented utility function: extracting enough information from a hard-to-interpret signal to act optimally can itself be computationally hard. We also characterize tractability across approximation notions and identify their sources of difficulty. Under the probably approximately correct criterion, sample-based Bayesian learning is tractable if and only if the signal support is bounded. Our results provide justifications for bounded rationality, costly Bayesian inference, and sample-based Bayesian learning.</p>
+        </div>
+      </details>
+    </div>
+
+    <div class="publication-entry">
       <h3 class="publication-title"><a href="/files/knowledge_KLW.pdf">Incentivizing Knowledge Transfers</a></h3>
       <p class="publication-coauthors">joint with <a href="https://zhkuang.weebly.com/">Zhonghong Kuang</a> and <a href="https://sites.google.com/view/dongwei">Dong Wei</a></p>
       <p class="publication-status">Available at <a class="publication-inline-link" href="http://arxiv.org/abs/2507.11018">arXiv</a>, 2025</p>
