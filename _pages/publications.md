@@ -36,7 +36,7 @@ author_profile: true
 
     <div class="publication-entry">
       <h3 class="publication-title"><a href="/files/signal_processing.pdf">On the Complexity of Bayesian Signal Processing</a></h3>
-      <p class="publication-status">2026</p>
+      <p class="publication-status">Available at <a class="publication-inline-link" href="https://arxiv.org/abs/2608.29840">arXiv</a>, 2026</p>
       <details class="publication-abstract">
         <summary>Show Abstract</summary>
         <div class="publication-abstract__content">
